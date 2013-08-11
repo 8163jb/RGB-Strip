@@ -6,7 +6,7 @@
    http://www.doayee.co.uk
    -------------------------------------------------------------------*/
 
-#define red 9      //Define the colour pins
+#define red 9      //Define the colour (color if you're american) pins
 #define green 10
 #define blue 11
 
