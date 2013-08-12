@@ -1,6 +1,6 @@
 /*-------------------------------------------------------------------
   Code for the controller in the RGB LED strip project - 
-  [website]
+  http://doayee.co.uk/rgb-led-strip-build-part-2/
   Mode 1 - allows control of colour via 3 potentiometers -
     + Red pot connected to pin A1
     + Green pot connected to pin A2
